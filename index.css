@@ -46,4 +46,10 @@ li{
     color: #7E0404;
     text-align: center;
     padding: 10px;
+}
+.Wedding{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    justify-content: space-evenly;
 }    
