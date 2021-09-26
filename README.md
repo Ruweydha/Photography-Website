@@ -7,5 +7,5 @@ It is a basic website with:
 * The team lead team members of the Company. Their images and roles.
 * Some of the team's favourite photos.
 
-[You can viiew in github pages] (https://ruweydha.github.io/Photography-Website/)
+You can view in github pages: (https://ruweydha.github.io/Photography-Website/)
 
