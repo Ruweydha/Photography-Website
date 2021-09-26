@@ -35,7 +35,8 @@ h2{
 }
 .Favourites{
     background-color: #c4c09A;
-    border-radius: 3rem;    
+    border-radius: 3rem; 
+    padding-bottom: 10px;   
 }
 li{
     font-style: oblique;
