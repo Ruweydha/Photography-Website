@@ -14,3 +14,12 @@ h2{
     text-align: center;
     color: white;
 }
+.top{
+    display: flex;
+    margin: 10;
+    border: 5px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    color: white;    
+}
