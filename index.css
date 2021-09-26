@@ -5,3 +5,12 @@ body{
     font-style: open-sans;
     box-sizing: border-box;
 }
+h1{
+    background-color: #cacaca;
+    color: purple;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+}
