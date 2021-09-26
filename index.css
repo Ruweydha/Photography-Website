@@ -64,5 +64,15 @@ li{
     margin: 10px;
     padding: 10px;
     justify-content: space-evenly;
-
-}   
+}  
+a:link{
+    color:yellow;
+    padding: 20px;
+}
+a:hover{
+    color: blue;
+    background-color: hotpink;
+}
+a:visited{
+    color: red;
+} 
