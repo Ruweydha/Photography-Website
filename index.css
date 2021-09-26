@@ -23,6 +23,13 @@ h2{
     justify-content: space-between;
     color: white;    
 }
+.intro{
+    font-weight: 400;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    margin-right: 20px;
+}
 .container{
     display: flex;
     justify-content: space-between;
@@ -32,6 +39,26 @@ h2{
     align-content: center;
     margin: 10rem;
     font-size:medium;    
+}
+.images-1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding: 10px
+}
+.images-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding: 10px
+}
+.images-3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding: 10px
+}
+.images-4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding: 10px
 }
 .Favourites{
     background-color: #c4c09A;
