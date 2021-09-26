@@ -7,5 +7,7 @@ It is a basic website with:
 * The team lead team members of the Company. Their images and roles.
 * Some of the team's favourite photos.
 
-You can view in github pages: (https://ruweydha.github.io/Photography-Website/)
+Here is a link to the design: https://www.figma.com/file/kab9t2plKzaemfJUYDM3AJ/Untitled?node-id=1%3A2  
+
+You can view in github pages: https://ruweydha.github.io/Photography-Website/
 
