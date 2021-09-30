@@ -13,12 +13,9 @@
 ## Description
 <p>This is  a website that was designed for next level studios. It has an introductory paragraph, the team members and their biography and a list of their favourite photos</p>
 ​
-
-​
 ### Requirements
-​
+
 * A computer
-​
 * An access to the Internet
 
 ​[Go Back to the top](#Photography Website)
@@ -27,20 +24,11 @@
 ​
 * CSS - Which was used to style the page. 
 ​
-[Go Back to the top](#Photography Website)
-​
 ## License
-​
-MIT License
-​
-Copyright (c) [2021] [Ruweydha Abdinoor]
-​
-[Go Back to the top](#Photography Website)
-​
+​MIT License
+​Copyright (c) [2021] Ruweydha Abdinoor
+
 ## Authors Info
 Ruweydha Abdinoor, student at Moringa school
-​
-Linked - [Ruweydha Abdinoor](https://ruweydha.github.io/Photography-Website/) 
+​Linked - [Ruweydha Abdinoor](https://ruweydha.github.io/Photography-Website/) 
 Design- [Design](https://www.figma.com/file/kab9t2plKzaemfJUYDM3AJ/Untitled?node-id=1%3A2)
-​
-[Go Back to the top](#Photography Website)
